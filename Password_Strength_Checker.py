@@ -33,4 +33,3 @@ while True:
         break  # Exit the loop once the password is strong
     else:
         print(result)  # Display the error message
-BlackIceGitHub25
