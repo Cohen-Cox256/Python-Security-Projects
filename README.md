@@ -1,4 +1,5 @@
 # Python-Security-Projects
-This is a group of different projects that I've been making. Feel free to comment on any of them to fix/grow on them. 
+This is a group of projects I've been making. These are mainly Python Projects although I do have other folders for Java code.
+I'm planning to add assembly but not for a while. 
 
 
