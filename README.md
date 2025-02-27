@@ -11,11 +11,11 @@ Each project in this repository serves a specific purpose. Below is a summary of
 ## Table of Contents
 (**Click on the link to be lead to the project overview and links to the project**)
 
-1. [Project 1 Name](#project-1-name)
-2. [Project 2 Name](#project-2-name)
-3. [Project 3 Name](#project-3-name)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. [Overview](#overview)
+2. [Table of Contents](#table-of-contents)
+   
+**Projects**
+1. [Password_Strength_Checker](#password_strength_checker)
 
 ---
 
@@ -29,5 +29,18 @@ We welcome contributions to the repository! To contribute, please follow the ste
 5. Open a Pull Request with a description of the changes
    
 #### Notice: Adhear to the Code of Conduct while contributing!
+
+# Projects
+These are the projects that have been created and added to the README.md file. Feel free to explore.
+
+## Password_Strength_Checker
+The Password_Strength_Checker is a starting project I made using Python.
+
+**Features**
+- You can check if your password is strong enough.
+
+
+
+
 
 
