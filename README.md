@@ -13,6 +13,8 @@ Each project in this repository serves a specific purpose. Below is a summary of
 
 1. [Overview](#overview)
 2. [Table of Contents](#table-of-contents)
+3. [ChatGPT API Key Policiy](#chatgpt-api-key-policity)
+4. [Code of Conduct](#code-of-conduct)
    
 **Projects**
 1. [Password_Strength_Checker](#password_strength_checker)
